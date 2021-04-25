@@ -18,7 +18,7 @@ class Exercise {
 }
 
 List<Exercise> getExercises() {
-  int secPerExercise = 5;
+  int secPerExercise = 30;
   return <Exercise>[
     Exercise(
       name: 'Ready to go',
